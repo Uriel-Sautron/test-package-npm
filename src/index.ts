@@ -5,4 +5,4 @@ type Wilder = {
 };
 
 export const helloWilder = (wilder: Wilder) =>
-  `Hello ${wilder.name} from ${wilder.city}`;
+  `Hello ${wilder.name} from ${wilder.city} :)`;
